@@ -21,6 +21,5 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=krth1k&show_icons=true&locale=en" alt="krth1k" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krth1k&" alt="krth1k" /></p>
