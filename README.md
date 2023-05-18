@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kishorekarthik P</h1>
+<!-- <h1 align="center">Hi 👋, I'm Kishorekarthik P</h1>
 - 🔭 I’m currently studying at **Sri Shakthi Institute of Engineering**
 
 - 📫 How to reach me **admin@freshware.net**
@@ -23,3 +23,4 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krth1k&" alt="krth1k" /></p>
+ -->
